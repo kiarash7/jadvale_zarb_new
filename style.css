@@ -1,0 +1,20 @@
+table{
+    border: 1px solid black;
+    margin: auto;
+    justify-content: center;
+    background-color: #9acd32;
+}
+tr, td{
+    border: 1px solid black;
+    padding: 1em;
+}
+tr:first-child{
+    background-color: tomato;
+    color: white;
+    font-weight: 900;
+}
+td:first-child{
+    background-color: tomato;
+    color: white;
+    font-weight: 900;
+}
